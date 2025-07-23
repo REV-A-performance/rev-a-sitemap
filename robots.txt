@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rev-a-performance.github.io/rev-a-sitemap/sitemap.xml

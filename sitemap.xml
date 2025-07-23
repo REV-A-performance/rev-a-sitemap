@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Latviešu sadaļas -->
+  <url>
+    <loc>https://www.rev-a.eu/</loc>
+    <lastmod>2025-07-20</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.rev-a.eu/veikals/</loc>
+    <lastmod>2025-07-18</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.rev-a.eu/pakalpojumi/</loc>
+    <lastmod>2025-07-18</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.rev-a.eu/noteikumi/</loc>
+    <lastmod>2025-07-15</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rev-a.eu/kontakti/</loc>
+    <lastmod>2025-07-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Angļu sadaļas -->
+  <url>
+    <loc>https://www.rev-a.eu/home/</loc>
+    <lastmod>2025-07-20</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.rev-a.eu/shop/</loc>
+    <lastmod>2025-07-18</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.rev-a.eu/services/</loc>
+    <lastmod>2025-07-18</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.rev-a.eu/terms-conditions/</loc>
+    <lastmod>2025-07-15</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rev-a.eu/contacts/</loc>
+    <lastmod>2025-07-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
